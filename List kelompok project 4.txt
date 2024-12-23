@@ -1,8 +1,8 @@
 List nama kelompok project 4.
 
 Kelompok 1 :
--
-- 
+- Dento
+- Xabiant 
 
 Kelompok 2 :
 - Tahta
@@ -13,9 +13,8 @@ Kelompok 3 :
 -faqih
 
 Kelompok 4 :
--Dento
--Xabiant
-
+-
+-
 
 Kelompok 5:
 -Divo
